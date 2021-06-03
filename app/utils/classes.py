@@ -29,13 +29,3 @@ class JSONObject(object):
             if not self.has(key):
                 return False
         return True
-
-    return <html>
-        <div>
-            <div>
-                {% for a in range(90) %}
-                    <span> name <span>
-                {% endfor %}
-            </div>
-        </div>        
-    </html>
