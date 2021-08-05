@@ -1,0 +1,6 @@
+Flask_SQLAlchemy==2.3.2
+Flask_Bcrypt==0.7.1
+Flask==1.0.2
+Flask_Migrate==2.3.0
+PyJWT==1.7.0
+gunicorn==19.9.0
